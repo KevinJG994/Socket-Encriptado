@@ -1,4 +1,6 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/KevinJG994/Socket-Encriptado) ![GitHub last commit](https://img.shields.io/github/last-commit/KevinJG994/Socket-Encriptado)
+![GitHub repo size](https://img.shields.io/github/repo-size/KevinJG994/Socket-Encriptado)
+![GitHub last commit](https://img.shields.io/github/last-commit/KevinJG994/Socket-Encriptado)
+
 
 # Proyecto de Chat Cliente-Servidor en Java :computer:
 
